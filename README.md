@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 
 
 ## Frontend Tools
-<a>&nbsp;<img align="center" alt="codeSTACKr | Angular" height="30px"  width="40px" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg"/></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | React" height="30px"  width="40px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | NextJs" height="30px"  width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"/></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | HTML" height="30px"  width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/></a>
